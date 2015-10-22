@@ -69,5 +69,5 @@ theme: codeland
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/exmatrix/exmatrix.github.io.git
+  repo: https://exmatrix@github.com/exmatrix/exmatrix.github.io.git
   branch: master
