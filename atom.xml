@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Tips]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="https://exmatrix.github.io/"/>
+  <updated>2015-10-22T08:42:39.482Z</updated>
+  <id>https://exmatrix.github.io/</id>
+  
+  <author>
+    <name><![CDATA[exmatrix]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Windows 自分用初期インストール一覧]]></title>
+    <link href="https://exmatrix.github.io/2015/10/22/windows-initial-installation/"/>
+    <id>https://exmatrix.github.io/2015/10/22/windows-initial-installation/</id>
+    <published>2015-10-22T08:07:16.000Z</published>
+    <updated>2015-10-22T08:42:39.482Z</updated>
+    <content type="html"><![CDATA[<p>自分がWindows機で、初期にインストールするソフト一覧</p>
+<h2 id="ブラウザ">ブラウザ</h2><ul>
+<li><a href="https://www.google.co.jp/chrome/" target="_blank" rel="external">Chrome</a></li>
+<li><a href="https://www.mozilla.org/ja/firefox/" target="_blank" rel="external">Firefox</a></li>
+</ul>
+<h2 id="メーラー">メーラー</h2><ul>
+<li><a href="www.mozilla.jp/thunderbird/">Thunderbird</a></li>
+</ul>
+<h2 id="ソースコード管理">ソースコード管理</h2><ul>
+<li><a href="https://git-for-windows.github.io/" target="_blank" rel="external">Git</a></li>
+<li><a href="https://tortoisegit.org/" target="_blank" rel="external">TortoiseGit</a></li>
+<li><a href="http://tortoisesvn.net" target="_blank" rel="external">TortoiseSVN</a></li>
+<li><a href="http://www.geocities.co.jp/SiliconValley-SanJose/8165/winmerge.html" target="_blank" rel="external">WinMerge</a></li>
+</ul>
+<h2 id="プログラミング_言語">プログラミング 言語</h2><ul>
+<li><a href="https://nodejs.org/en/" target="_blank" rel="external">Nodejs</a></li>
+<li><a href="https://www.python.org/downloads/" target="_blank" rel="external">Python27</a></li>
+<li><a href="http://rubyinstaller.org/downloads/" target="_blank" rel="external">Ruby</a></li>
+<li><a href="http://www.oracle.com/technetwork/jp/java/javase/" target="_blank" rel="external">Java</a></li>
+<li><a href="http://strawberryperl.com/" target="_blank" rel="external">Perl</a></li>
+</ul>
+<h2 id="エディター">エディター</h2><ul>
+<li><a href="http://www.sublimetext.com/3" target="_blank" rel="external">Sublime Text 3</a></li>
+</ul>
+<h2 id="画像編集">画像編集</h2><ul>
+<li><a href="http://www.getpaint.net/index.html" target="_blank" rel="external">Paint.net</a></li>
+</ul>
+<h2 id="FTP">FTP</h2><ul>
+<li><a href="https://filezilla-project.org/" target="_blank" rel="external">FileZilla</a></li>
+</ul>
+<h2 id="PostgreSQL_Client">PostgreSQL Client</h2><ul>
+<li><a href="http://www.pgadmin.org/download/windows.php" target="_blank" rel="external">pgadmin</a></li>
+</ul>
+<h2 id="Mysql_Client">Mysql Client</h2><ul>
+<li><a href="http://www.heidisql.com/download.php" target="_blank" rel="external">HeidiSQL</a></li>
+</ul>
+<h2 id="SSH">SSH</h2><ul>
+<li><a href="http://hp.vector.co.jp/authors/VA024651/PuTTYkj.html" target="_blank" rel="external">putty</a></li>
+</ul>
+<h2 id="解凍ソフト">解凍ソフト</h2><ul>
+<li><a href="https://sevenzip.osdn.jp/" target="_blank" rel="external">7zip</a></li>
+<li><a href="http://www.forest.impress.co.jp/library/software/lhaplus/" target="_blank" rel="external">Lhaplus</a></li>
+<li><a href="http://www.cube-soft.jp/cubeice/" target="_blank" rel="external">CubeICE</a> (※ Macからのファイルの解凍に便利)</li>
+</ul>
+<h2 id="その他">その他</h2><ul>
+<li><a href="http://jp.norton.com/downloads" target="_blank" rel="external">Norton Internet Security</a></li>
+<li><a href="http://www.skype.com/ja/download-skype/skype-for-computer/" target="_blank" rel="external">Skype</a></li>
+<li><a href="http://www.forest.impress.co.jp/library/software/winshot/" target="_blank" rel="external">WinShot</a></li>
+<li><a href="https://evernote.com/intl/jp/download/" target="_blank" rel="external">Evernote</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>自分がWindows機で、初期にインストールするソフト一覧</p>
+<h2 id="ブラウザ">ブラウザ</h2><ul>
+<li><a href="https://www.google.co.jp/chrome/" target="_blank" rel="externa]]>
+    </summary>
+    
+      <category term="Windows" scheme="https://exmatrix.github.io/tags/Windows/"/>
+    
+      <category term="インストール" scheme="https://exmatrix.github.io/tags/%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB/"/>
+    
+  </entry>
+  
+</feed>
