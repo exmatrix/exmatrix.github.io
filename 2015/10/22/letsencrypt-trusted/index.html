@@ -3,27 +3,24 @@
 <head>
   <meta charset="utf-8">
   
-  <title>本サイト用のHexo利用方法 | Tips</title>
+  <title>無料のSSL証明書 Let&#39;s Encrypt | Tips</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="初期インストール1npm i hexo-cli -g&amp;#10;git clone -b src https://github.com/exmatrix/exmatrix.github.io.git blog&amp;#10;cd blog&amp;#10;npm i
-新しい記事の作成1hexo new &amp;#34;directory-name&amp;#34;
-記事のチェック1hexo server
-アップロード1hexo">
+  <meta name="description" content="無料でSSL証明書が取得できるように！2015年10月19日より、Let’s Encryptを用いて作成されたSSL証明書が、IdenTrustにより、一般的なブラウザーで使用できるようになりました。(情報元)
+現時点(10月22日)では、Let’s EncryptによるSSL証明書の発行プログラムがプレビュー状態ですが、11月の第3週にリリース予定とのことです。
+現在、プレビュー版のため、リリー">
 <meta property="og:type" content="article">
-<meta property="og:title" content="本サイト用のHexo利用方法">
-<meta property="og:url" content="https://exmatrix.github.io/2015/10/22/how-to-hexo/index.html">
+<meta property="og:title" content="無料のSSL証明書 Let's Encrypt">
+<meta property="og:url" content="https://exmatrix.github.io/2015/10/22/letsencrypt-trusted/index.html">
 <meta property="og:site_name" content="Tips">
-<meta property="og:description" content="初期インストール1npm i hexo-cli -g&amp;#10;git clone -b src https://github.com/exmatrix/exmatrix.github.io.git blog&amp;#10;cd blog&amp;#10;npm i
-新しい記事の作成1hexo new &amp;#34;directory-name&amp;#34;
-記事のチェック1hexo server
-アップロード1hexo">
-<meta property="og:updated_time" content="2015-10-22T09:29:14.616Z">
+<meta property="og:description" content="無料でSSL証明書が取得できるように！2015年10月19日より、Let’s Encryptを用いて作成されたSSL証明書が、IdenTrustにより、一般的なブラウザーで使用できるようになりました。(情報元)
+現時点(10月22日)では、Let’s EncryptによるSSL証明書の発行プログラムがプレビュー状態ですが、11月の第3週にリリース予定とのことです。
+現在、プレビュー版のため、リリー">
+<meta property="og:updated_time" content="2015-10-22T11:24:31.543Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="本サイト用のHexo利用方法">
-<meta name="twitter:description" content="初期インストール1npm i hexo-cli -g&amp;#10;git clone -b src https://github.com/exmatrix/exmatrix.github.io.git blog&amp;#10;cd blog&amp;#10;npm i
-新しい記事の作成1hexo new &amp;#34;directory-name&amp;#34;
-記事のチェック1hexo server
-アップロード1hexo">
+<meta name="twitter:title" content="無料のSSL証明書 Let's Encrypt">
+<meta name="twitter:description" content="無料でSSL証明書が取得できるように！2015年10月19日より、Let’s Encryptを用いて作成されたSSL証明書が、IdenTrustにより、一般的なブラウザーで使用できるようになりました。(情報元)
+現時点(10月22日)では、Let’s EncryptによるSSL証明書の発行プログラムがプレビュー状態ですが、11月の第3週にリリース予定とのことです。
+現在、プレビュー版のため、リリー">
   
     <link rel="alternative" href="/atom.xml" title="Tips" type="application/atom+xml">
   
@@ -69,9 +66,9 @@
   </div>
 </div>
       <div class="outer">
-        <section id="main"><article id="post-how-to-hexo" class="article article-type-post" itemscope itemprop="blogPost">
+        <section id="main"><article id="post-letsencrypt-trusted" class="article article-type-post" itemscope itemprop="blogPost">
   <div class="article-meta">
-    <a href="/2015/10/22/how-to-hexo/" class="article-date">
+    <a href="/2015/10/22/letsencrypt-trusted/" class="article-date">
   <time datetime="2015-10-22T09:12:00.000Z" itemprop="datePublished">2015-10-22</time>
 </a>
     
@@ -83,7 +80,7 @@
         
   
     <h1 class="article-title" itemprop="name">
-      本サイト用のHexo利用方法
+      無料のSSL証明書 Let&#39;s Encrypt
     </h1>
   
 
@@ -91,20 +88,17 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        <h2 id="初期インストール">初期インストール</h2><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm i hexo-cli -g&#10;git clone -b src https://github.com/exmatrix/exmatrix.github.io.git blog&#10;cd blog&#10;npm i</span><br></pre></td></tr></table></figure>
-<h2 id="新しい記事の作成">新しい記事の作成</h2><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new &#34;directory-name&#34;</span><br></pre></td></tr></table></figure>
-<h2 id="記事のチェック">記事のチェック</h2><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo server</span><br></pre></td></tr></table></figure>
-<h2 id="アップロード">アップロード</h2><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo deploy -g</span><br></pre></td></tr></table></figure>
-<p>_config.ymlの<code>deploy:</code>の部分は<br><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">deploy:&#10;  type: git&#10;  repo: https://exmatrix@github.com/exmatrix/exmatrix.github.io.git&#10;  branch: master</span><br></pre></td></tr></table></figure></p>
-<p>のようにすることで、ユーザー名を省略できます。</p>
+        <h2 id="無料でSSL証明書が取得できるように！">無料でSSL証明書が取得できるように！</h2><p>2015年10月19日より、Let’s Encryptを用いて作成されたSSL証明書が、<br><a href="https://identrustssl.com/" target="_blank" rel="external">IdenTrust</a>により、<br>一般的なブラウザーで使用できるようになりました。<br>(<a href="https://letsencrypt.org/2015/10/19/lets-encrypt-is-trusted.html" target="_blank" rel="external">情報元</a>)</p>
+<p>現時点(10月22日)では、Let’s EncryptによるSSL証明書の発行プログラムが<br>プレビュー状態ですが、<br><a href="https://letsencrypt.org/2015/08/07/updated-lets-encrypt-launch-schedule.html" target="_blank" rel="external">11月の第3週にリリース予定</a>とのことです。</p>
+<p>現在、プレビュー版のため、リリース時に予定されている使用方法とは<br>若干異なりますが、<br><a href="https://letsencrypt.readthedocs.org/en/latest/using.html" target="_blank" rel="external">ドキュメント</a><br>にプレビュー版の使用方法が載っています。</p>
 
       
     </div>
     <footer class="article-footer">
-      <a data-url="https://exmatrix.github.io/2015/10/22/how-to-hexo/" data-id="cig20t56j0008uca60ir1zhab" class="article-share-link">Share</a>
+      <a data-url="https://exmatrix.github.io/2015/10/22/letsencrypt-trusted/" data-id="cig256lqo0000coa6l0qvxdrx" class="article-share-link">Share</a>
       
       
-  <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Hexo/">Hexo</a></li></ul>
+  <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Let-s-Encrypt/">Let's Encrypt</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/ssl/">ssl</a></li></ul>
 
     </footer>
   </div>
@@ -112,10 +106,19 @@
     
 <nav id="article-nav">
   
+    <a href="/2015/10/22/how-to-hexo/" id="article-nav-newer" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Newer</strong>
+      <div class="article-nav-title">
+        
+          本サイト用のHexo利用方法
+        
+      </div>
+    </a>
   
-    <a href="/2015/10/22/letsencrypt-trusted/" id="article-nav-older" class="article-nav-link-wrap">
+  
+    <a href="/2015/10/22/windows-initial-installation/" id="article-nav-older" class="article-nav-link-wrap">
       <strong class="article-nav-caption">Older</strong>
-      <div class="article-nav-title">無料のSSL証明書 Let&#39;s Encrypt</div>
+      <div class="article-nav-title">Windows 自分用初期インストール一覧</div>
     </a>
   
 </nav>
