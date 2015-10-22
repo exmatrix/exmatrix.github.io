@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="https://exmatrix.github.io/"/>
-  <updated>2015-10-22T08:42:39.482Z</updated>
+  <updated>2015-10-22T09:16:05.420Z</updated>
   <id>https://exmatrix.github.io/</id>
   
   <author>
@@ -13,6 +13,41 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[本サイト用のHexo利用方法]]></title>
+    <link href="https://exmatrix.github.io/2015/10/22/hexo-first/"/>
+    <id>https://exmatrix.github.io/2015/10/22/hexo-first/</id>
+    <published>2015-10-22T09:12:00.000Z</published>
+    <updated>2015-10-22T09:16:05.420Z</updated>
+    <content type="html"><![CDATA[<figure class="highlight crmsh"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git <span class="keyword">clone</span> <span class="title">https</span>://github.com/exmatrix/exmatrix.github.io.git blog</span><br><span class="line">cd blog</span><br></pre></td></tr></table></figure>
+]]></content>
+    <summary type="html">
+    <![CDATA[<figure class="highlight crmsh"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td>]]>
+    </summary>
+    
+      <category term="Hexo" scheme="https://exmatrix.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[本サイト用のHexo利用方法]]></title>
+    <link href="https://exmatrix.github.io/2015/10/22/how-to-hexo/"/>
+    <id>https://exmatrix.github.io/2015/10/22/how-to-hexo/</id>
+    <published>2015-10-22T09:12:00.000Z</published>
+    <updated>2015-10-22T09:20:31.629Z</updated>
+    <content type="html"><![CDATA[<h2 id="初期インストール">初期インストール</h2><figure class="highlight stata"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">npm i hexo-<span class="keyword">cli</span> -<span class="keyword">g</span></span><br><span class="line">git clone -b src https:<span class="comment">//github.com/exmatrix/exmatrix.github.io.git blog</span></span><br><span class="line"><span class="keyword">cd</span> blog</span><br><span class="line">npm <span class="literal">i</span></span><br></pre></td></tr></table></figure>
+<h2 id="新しい記事の作成">新しい記事の作成</h2><p><code>hexo new &quot;directory-name&quot;</code></p>
+<h2 id="記事のチェック">記事のチェック</h2><p><code>hexo server</code></p>
+<h2 id="アップロード">アップロード</h2><p><code>hexo deploy -g</code></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h2 id="初期インストール">初期インストール</h2><figure class="highlight stata"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class]]>
+    </summary>
+    
+      <category term="Hexo" scheme="https://exmatrix.github.io/tags/Hexo/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Windows 自分用初期インストール一覧]]></title>
