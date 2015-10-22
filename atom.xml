@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="https://exmatrix.github.io/"/>
-  <updated>2015-10-22T09:29:14.616Z</updated>
+  <updated>2015-10-22T11:25:57.385Z</updated>
   <id>https://exmatrix.github.io/</id>
   
   <author>
@@ -13,6 +13,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[無料のSSL証明書 Let's Encrypt]]></title>
+    <link href="https://exmatrix.github.io/2015/10/22/letsencrypt-trusted/"/>
+    <id>https://exmatrix.github.io/2015/10/22/letsencrypt-trusted/</id>
+    <published>2015-10-22T11:12:00.000Z</published>
+    <updated>2015-10-22T11:25:57.385Z</updated>
+    <content type="html"><![CDATA[<h2 id="無料でSSL証明書が取得できるように！">無料でSSL証明書が取得できるように！</h2><p>2015年10月19日より、Let’s Encryptを用いて作成されたSSL証明書が、<br><a href="https://identrustssl.com/" target="_blank" rel="external">IdenTrust</a>により、<br>一般的なブラウザーで使用できるようになりました。<br>(<a href="https://letsencrypt.org/2015/10/19/lets-encrypt-is-trusted.html" target="_blank" rel="external">情報元</a>)</p>
+<p>現時点(10月22日)では、Let’s EncryptによるSSL証明書の発行プログラムが<br>プレビュー状態ですが、<br><a href="https://letsencrypt.org/2015/08/07/updated-lets-encrypt-launch-schedule.html" target="_blank" rel="external">11月の第3週にリリース予定</a>とのことです。</p>
+<p>現在、プレビュー版のため、リリース時に予定されている使用方法とは<br>若干異なりますが、<br><a href="https://letsencrypt.readthedocs.org/en/latest/using.html" target="_blank" rel="external">ドキュメント</a><br>にプレビュー版の使用方法が載っています。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h2 id="無料でSSL証明書が取得できるように！">無料でSSL証明書が取得できるように！</h2><p>2015年10月19日より、Let’s Encryptを用いて作成されたSSL証明書が、<br><a href="https://identrustssl.com/" ]]>
+    </summary>
+    
+      <category term="Let&#39;s Encrypt" scheme="https://exmatrix.github.io/tags/Let-s-Encrypt/"/>
+    
+      <category term="ssl" scheme="https://exmatrix.github.io/tags/ssl/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[本サイト用のHexo利用方法]]></title>
@@ -32,26 +52,6 @@
     </summary>
     
       <category term="Hexo" scheme="https://exmatrix.github.io/tags/Hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[無料のSSL証明書 Let's Encrypt]]></title>
-    <link href="https://exmatrix.github.io/2015/10/22/letsencrypt-trusted/"/>
-    <id>https://exmatrix.github.io/2015/10/22/letsencrypt-trusted/</id>
-    <published>2015-10-22T09:12:00.000Z</published>
-    <updated>2015-10-22T11:24:31.543Z</updated>
-    <content type="html"><![CDATA[<h2 id="無料でSSL証明書が取得できるように！">無料でSSL証明書が取得できるように！</h2><p>2015年10月19日より、Let’s Encryptを用いて作成されたSSL証明書が、<br><a href="https://identrustssl.com/" target="_blank" rel="external">IdenTrust</a>により、<br>一般的なブラウザーで使用できるようになりました。<br>(<a href="https://letsencrypt.org/2015/10/19/lets-encrypt-is-trusted.html" target="_blank" rel="external">情報元</a>)</p>
-<p>現時点(10月22日)では、Let’s EncryptによるSSL証明書の発行プログラムが<br>プレビュー状態ですが、<br><a href="https://letsencrypt.org/2015/08/07/updated-lets-encrypt-launch-schedule.html" target="_blank" rel="external">11月の第3週にリリース予定</a>とのことです。</p>
-<p>現在、プレビュー版のため、リリース時に予定されている使用方法とは<br>若干異なりますが、<br><a href="https://letsencrypt.readthedocs.org/en/latest/using.html" target="_blank" rel="external">ドキュメント</a><br>にプレビュー版の使用方法が載っています。</p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<h2 id="無料でSSL証明書が取得できるように！">無料でSSL証明書が取得できるように！</h2><p>2015年10月19日より、Let’s Encryptを用いて作成されたSSL証明書が、<br><a href="https://identrustssl.com/" ]]>
-    </summary>
-    
-      <category term="Let&#39;s Encrypt" scheme="https://exmatrix.github.io/tags/Let-s-Encrypt/"/>
-    
-      <category term="ssl" scheme="https://exmatrix.github.io/tags/ssl/"/>
     
   </entry>
   
